@@ -10,4 +10,4 @@ report.md:
     mdl
     proselint
 # --> check the number of commits beyond a threshold
---commits 14
+--commits 11
