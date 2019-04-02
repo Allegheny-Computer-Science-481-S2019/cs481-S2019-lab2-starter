@@ -1,0 +1,13 @@
+---
+name: cmpsc-481-spring-2019-lab2
+break: true
+indent: 4
+---
+# --> check the technical writing
+# mdl is a Markdown linting tool
+# proselint checks writing for common mistakes
+report.md:
+    mdl
+    proselint
+# --> check the number of commits beyond a threshold
+--commits 14
